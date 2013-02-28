@@ -1,8 +1,15 @@
 # CodeClimate
 
-This is a Ruby wrapper for CodeClimate ratings API.
+This is a Ruby wrapper for CodeClimate ratings API. *Not functional yet*, as of the latest commit.
 
+### Benefits
 See code quality ratings of each Class on your text editor. Ratings from CodeClimate API. Currently building to support viewing on Sublime Text 2, in the status bar.
+
+### Before this gem will be of any use, you will need to:
+1) Get an account on CodeClimate.
+Sign up for a free trial at http://codeclimate.com.
+
+2) Add your repo onto CodeClimate.
 
 ## Installation
 
